@@ -99,7 +99,7 @@ mutation {
 ---
 {
   "data": {
-    "addToAuthorPosts": {
+    "removeFromAuthorPosts": {
       "authorUser": {
         "name": "John Doe"
       },
